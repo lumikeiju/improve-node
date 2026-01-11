@@ -1,8 +1,8 @@
-improve-node.code-workspace
+.cache/
+.venv/
+target/
 local-storage/
-*.wip
 .DS_Store
 Thumbs.db
-
-# Maven build output
-target/
+improve-node.code-workspace
+*.wip
