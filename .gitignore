@@ -1,6 +1,14 @@
 .cache/
 .venv/
 target/
+build/
+bin/
+.gradle/
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
 local-storage/
 .DS_Store
 Thumbs.db
