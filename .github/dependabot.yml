@@ -15,17 +15,3 @@ updates:
       include: "scope"
     assignees:
       - "lumikeiju"
-
-  - package-ecosystem: "gradle"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-      day: "sunday"
-      time: "14:00"
-    cooldown:
-      default-days: 3
-    commit-message:
-      prefix: "chore"
-      include: "scope"
-    assignees:
-      - "lumikeiju"
